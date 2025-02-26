@@ -74,22 +74,32 @@ matplotlib
 
 ---
 
-## 🎯 Key Features
-✅ **Intuitive UI** – Users can easily draw digits using a mouse.
-✅ **Real-time Predictions** – Quick response from the backend.
-✅ **FastAPI-based API** – Lightweight, efficient, and scalable.
-✅ **Docker Support** – Easy deployment with containerization.
-✅ **Customizable Model** – Swap out the ML model for improvements.
+## 🎯 Key Features  
+
+✅ **Intuitive UI** – Users can easily draw digits using a mouse.  
+
+✅ **Real-time Predictions** – Quick response from the backend.  
+
+✅ **FastAPI-based API** – Lightweight, efficient, and scalable.  
+
+✅ **Docker Support** – Easy deployment with containerization.  
+
+✅ **Customizable Model** – Swap out the ML model for improvements.  
 
 ---
 
-## 🚀 Future Enhancements
-🔹 **Improve UI design** for a smoother experience.
-🔹 **Enhance the model** for better accuracy.
-🔹 **Extend support** for recognizing letters and symbols.
-🔹 **Deploy on cloud** for broader accessibility.
+## 🚀 Future Enhancements  
+
+🔹 **Improve UI design** for a smoother experience.  
+
+🔹 **Enhance the model** for better accuracy.  
+
+🔹 **Extend support** for recognizing letters and symbols.  
+
+🔹 **Deploy on cloud** for broader accessibility.  
 
 ---
+
 
 ## 📌 Conclusion
 This AI-powered digit recognition app demonstrates how **machine learning models** can be deployed as **REST APIs** and integrated with **interactive user interfaces**. With Docker support, it becomes even more portable and scalable. 🚀
